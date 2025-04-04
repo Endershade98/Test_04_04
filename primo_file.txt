@@ -1,1 +1,2 @@
-
+4. Cos'è Una classe? A che serve il self?
+Una classe è una "fabbrica di oggetti" e in se rappresenta l'implementazione concreta del principio di incapsulamento dell'OOP. Infatti le classi in python hanno incapsulati dati (chiamati attributi) e funzioni (chiamate metodi) che permettono di accedere ai dati incapsulati. Grazie alla keyword "class" prima del nome della classe è possibile definirne una, mentre per istanziarla, e creare così un oggetto, basta richiamare il nome della classe con in essa (eventualmente) gli attributi che costituiscono l'oggetto. il self serve a richiamare i parametri di una classe, mentre il costruttore __init__() si occupa di costruirla.
